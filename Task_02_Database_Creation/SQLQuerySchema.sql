@@ -1,0 +1,19 @@
+
+CREATE DATABASE BidNile;
+GO
+
+USE BidNile;
+GO
+
+
+CREATE SCHEMA Core;
+GO
+
+CREATE SCHEMA Logistics;
+GO
+
+CREATE SCHEMA Catalog;
+GO
+
+CREATE SCHEMA Trading;
+GO

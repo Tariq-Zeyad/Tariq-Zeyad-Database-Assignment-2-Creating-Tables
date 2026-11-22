@@ -1,0 +1,6 @@
+
+-- 3.5 Alter FullName
+
+ALTER TABLE Core.Member
+ALTER COLUMN FullName NVARCHAR(150) NOT NULL;
+GO
